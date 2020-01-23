@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1577912604 source:c:\users\ahed bahri\desktop\final c\miniprojet\main.c
+	<tchar.h>
+	"myconio.h"
+	<stdio.h>
+	<windows.h>
+	"Entree_Sortie.h"
+	"TP1.h"
+	"TP2.h"
+	"TP3.h"
+	"menu.h"
+	"jeux.h"
+
+1577902464 c:\users\ahed bahri\desktop\final c\miniprojet\entree_sortie.h
+	<windows.h>
+
+1577902485 c:\users\ahed bahri\desktop\final c\miniprojet\tp1.h
+	"Entree_Sortie.h"
+
+1577212301 c:\users\ahed bahri\desktop\final c\miniprojet\tp2.h
+	"Entree_Sortie.h"
+
+1577120373 c:\users\ahed bahri\desktop\final c\miniprojet\tp3.h
+
+1577902452 c:\users\ahed bahri\desktop\final c\miniprojet\menu.h
+	"myconio.h"
+	"TP1.h"
+	"TP2.h"
+	"TP3.h"
+
+1577912866 c:\users\ahed bahri\desktop\final c\miniprojet\jeux.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"myconio.h"
+
